@@ -4,6 +4,7 @@
 	"description": "A project that does node-js awesome sample",
   "keywords": [ "node-js", "sample", "freecodecamp" ],
 	"license": "MIT",
+  "version": "1.2.0",
 	"engines": {
 		"node": "8.11.2"
 	},
