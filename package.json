@@ -1,7 +1,8 @@
 {
 	"author": "Elgilany Hassan",
 	"name": "fcc-learn-npm-package-json",
-	"description": "A project that does nodejs awesome sample",
+	"description": "A project that does node-js awesome sample",
+  "keywords": [ "node-js", "sample", "freecodecamp" ],
 	"license": "MIT",
 	"engines": {
 		"node": "8.11.2"
